@@ -8,6 +8,30 @@ styles:
     column_spacing: 3
     header_divider: "-"
 ---
+# History
+
+##2008
+- LXC
+
+##2013
+- Docker released to open source in March
+- RedHat: Fedora, redhat enterprise, openshift
+
+##2014
+- Microsoft: next windows server release, and native support for the docker client
+- Stratoscale: partnership with docker
+- IBM: strategic partnership with docker
+
+##2016
+- docker introduces first commercial product
+
+##2018
+- open source community includes:
+- 3.300+ captaines
+- 47.000+ stars
+- 14.000+ forks
+
+---
 
 # What is Docker?
 
