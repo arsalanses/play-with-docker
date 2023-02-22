@@ -8,6 +8,11 @@ styles:
     column_spacing: 3
     header_divider: "-"
 ---
+
+# Arsalan Sefidgar (@arsalanse)
+- DevOps engineer @G2tech
+
+---
 # History
 
 ##2008
@@ -79,7 +84,7 @@ docker run postgres
 - Artifact and instructions handed over to Ops team
 - Ops team handles installing and configuring apps and its dependencies
 - [x] Installations and configurations done directly on the server's OS
-- [x] Dependency version configicts etc.
+- [x] Dependency version confilicts etc.
 - [x] Human errors can happen
 - [x] Back and forth communication
 
@@ -98,3 +103,7 @@ docker run postgres
 - Why is Docker so widely used?
 - What advantages does it have over Virtual Machines?
 - What is the differences?
+
+---
+
+# Any questions to ask since here?
