@@ -47,13 +47,9 @@ styles:
 - Portable artifact, easily shared and distributed
 
 ---
-
+# What problems Docker solves?
 - Why is this a big deal?
 - How did it work before Docker?
-
----
-
-# What problems Docker solves?
 
 ---
 
